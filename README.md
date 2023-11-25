@@ -40,16 +40,16 @@ java, spring boot, openToHtml
 for pdf manipulation
 
 ```
-  <dependency>
-            <groupId>com.openhtmltopdf</groupId>
-            <artifactId>openhtmltopdf-pdfbox</artifactId>
-            <version>1.0.10</version>
-  </dependency>
-  <dependency>
+<dependency>
+    <groupId>com.openhtmltopdf</groupId>
+    <artifactId>openhtmltopdf-pdfbox</artifactId>
+    <version>1.0.10</version>
+</dependency>
+<dependency>
     <groupId>com.openhtmltopdf</groupId>
     <artifactId>openhtmltopdf-rtl-support</artifactId>
     <version>1.0.10</version>
-  </dependency>
+</dependency>
 ```
 
 for docx file processing
